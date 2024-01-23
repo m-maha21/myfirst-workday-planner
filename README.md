@@ -1,4 +1,4 @@
-# myfirst-workday-planner 
+# Work Day Scheduler App
 ## Description
 This app will help users to plan their busy schedule for a work day.
 ## Installation
