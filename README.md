@@ -14,7 +14,7 @@ The following image shows the web application's appearance and functionality:
 ## Table of Contents 
 
 - [Description](#description)
-- [Screenshot] (#screenshot)
+- [Screenshot](#screenshot)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
