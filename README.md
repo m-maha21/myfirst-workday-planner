@@ -8,9 +8,9 @@ Link to the deployed application: https://m-maha21.github.io/myfirst-workday-pla
 
 ## Screenshot 
 The following image shows the web application's appearance and functionality:
-```md
-    ![alt text](images/screenshot.jpeg)
-    ```
+
+![alt text](images/screenshot.jpeg)
+    
 ## Table of Contents 
 
 - [Description](#description)
