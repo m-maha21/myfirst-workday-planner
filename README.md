@@ -48,6 +48,6 @@ GitHub: m-maha21
 
 ## Tools
 
-The tools that I have used in project are: JavaScript, CSS, HTML and Local Storage
+The tools that I have used in project are: JavaScript, CSS, HTML,Local Storage, JQuery, Third-Party APIs, Day.js
 
 
